@@ -1,5 +1,3 @@
----
-
 # GlobeTrek
 
 GlobeTrek is a sleek and modern UI/UX implementation of a travel website built using Next.js and Tailwind CSS. This project aims to provide an exceptional user experience with seamless navigation and visually appealing design.
@@ -24,7 +22,7 @@ To get a local copy up and running, follow these steps:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/globetrek.git
+   git clone https://github.com/mounishvatti/globetrek.git
    ```
 
 2. **Navigate to the project directory:**
@@ -82,9 +80,3 @@ We welcome contributions to enhance GlobeTrek! To contribute, follow these steps
 3. Commit your changes (`git commit -m 'Add some feature'`).
 4. Push to the branch (`git push origin feature/YourFeature`).
 5. Open a pull request.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
